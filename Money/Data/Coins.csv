@@ -1,0 +1,9 @@
+﻿Id;Name;Material;Value;Diameter;Thickness;Weight;Color
+OneCent;EUR;Metal;1;16,25;1,36;2,3;rot
+TwoCent;EUR;Metal;2;18,75;1,36;3;rot
+FiveCent;EUR;Metal;5;21,25;1,36;3,9;rot
+TenCent;EUR;Metal;10;19,75;1,21;4,1;gelb
+TewntyCent;EUR;Metal;20;22,25;1,63;5,7;gelb
+FiftyCent;EUR;Metal;50;24,25;1,88;0,8;gelg
+OneEuro;EUR;Metal;100;23,25;2,12;7,5;gelb/weiß
+TwoEuro;EUR;Metal;200;25,75;1,95;8,5;gelb/weiß

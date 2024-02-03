@@ -1,0 +1,8 @@
+﻿Id;Name;Material;Value;Lenght;Width;Color
+FiveEuro;EUR;Paper;500;120;62;grau
+TenEuro;EUR;Paper;1000;127;67;rot
+TwentyEuro;EUR;Paper;2000;133;2;blau
+FiftyEuro;EUR;Paper;5000;140;77;orange
+HundredEuro;EUR;Paper;10000;147;82;grün
+TowHundreEuro;EUR;Paper;20000;153;77;gelb
+FiveHundredEuro;EUR;Paper;50000;160;82;lila
