@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Money
 {
-    internal class Bank
+    internal class Bank : IAddable
     {
         private static bool isInit = false;
 
         private static Dictionary<string, Money> currency = new();
+
+        public int Value => currency.Count();
 
         public Bank(string coinPath, string billPath)
         {
@@ -63,5 +65,11 @@ namespace Money
 
             return result.ToArray();
         }
+
+        //public int AddMe(int value)
+        //{
+        //    return value - Value;
+        //    //return value + Value * 100;
+        //}
     }
 }
